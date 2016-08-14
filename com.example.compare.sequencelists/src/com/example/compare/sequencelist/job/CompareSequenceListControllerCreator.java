@@ -35,13 +35,13 @@ public class CompareSequenceListControllerCreator implements IB2GObjectControlle
 	@Override
 	public String getViewerName() {
 		// TODO Auto-generated method stub
-		return null;
+		return "Table";
 	}
 
 	@Override
 	public EnumSet<WorkbenchProperty> getWorkbenchProperties() {
 		// TODO Auto-generated method stub
-		return null;
+		return EnumSet.of(WorkbenchProperty.DEFAULT_VIEWER, WorkbenchProperty.IMPORTANCE_PRIMARY_VIEWER, WorkbenchProperty.POSITION_MAIN, WorkbenchProperty.SAVE_ALLOWED);
 	}
 
 
