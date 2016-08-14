@@ -28,17 +28,17 @@ public class CompareSequenceListParameters extends Parameters {
 	}
 
 	public StringKey compareSequenceListString1 = StringKey
-			.builder(getBaseName("compareSequenceListString1"), "Sequence list name").setName("List 1 name")
+			.builder(getBaseName("compareSequenceListString1"), "List1").setName("List 1 name")
 			.setDescription("Name to be assigned to VennDiagram label").setMessage("Name the list")
 			.setValidator(StringValidator.notEmptyString()).build();
 
 	public StringKey compareSequenceListString2 = StringKey
-			.builder(getBaseName("compareSequenceListString2"), "Sequence list name").setName("List 2 name")
+			.builder(getBaseName("compareSequenceListString2"), "List2").setName("List 2 name")
 			.setDescription("Name to be assigned to VennDiagram label").setMessage("Name the list")
 			.setValidator(StringValidator.notEmptyString()).build();
 
 	public StringKey compareSequenceListString3 = StringKey
-			.builder(getBaseName("compareSequenceListString3"), "Sequence list name").setName("List 3 name")
+			.builder(getBaseName("compareSequenceListString3"), "List3").setName("List 3 name")
 			.setDescription("Name to be assigned to VennDiagram label").setMessage("Name the list")
 			.setValidator(StringValidator.notEmptyString()).build();
 
