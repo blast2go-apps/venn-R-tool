@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CompareSequenceLists
+Bundle-SymbolicName: com.example.compare.sequencelists;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: EXAMPLE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.biobam.blast2go.api.action;bundle-version="2.0.0",
+ com.biobam.blast2go.api.scm;bundle-version="1.0.0",
+ com.biobam.blast2go.api.dataviewer;bundle-version="1.0.0",
+ org.eclipse.swt,
+ com.biobam.blast2go.api.datatype.basics;bundle-version="1.0.0",
+ com.biobam.blast2go.api.dataviewer.internal;bundle-version="1.0.1",
+ com.biobam.blast2go;bundle-version="3.3.0"
