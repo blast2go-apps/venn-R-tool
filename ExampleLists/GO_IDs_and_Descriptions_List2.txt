@@ -1,0 +1,49 @@
+GO:0045549:9-cis-epoxycarotenoid dioxygenase activity
+GO:0008271:secondary active sulfate transmembrane transporter activity
+GO:1902358:sulfate transmembrane transport
+GO:0006259:DNA metabolic process
+GO:0019805:quinolinate biosynthetic process
+GO:0008987:quinolinate synthetase A activity
+GO:0051176:positive regulation of sulfur metabolic process
+GO:0005887:integral component of plasma membrane
+GO:1902589:single-organism organelle organization
+GO:0043234:protein complex
+GO:0044210:'de novo' CTP biosynthetic process
+GO:0003883:CTP synthase activity
+GO:0003825:alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity
+GO:0005576:extracellular region
+GO:0010115:regulation of abscisic acid biosynthetic process
+GO:0004805:trehalose-phosphatase activity
+GO:0004565:beta-galactosidase activity
+GO:0009678:hydrogen-translocating pyrophosphatase activity
+GO:0009435:NAD biosynthetic process
+GO:0030570:pectate lyase activity
+GO:0016298:lipase activity
+GO:0005388:calcium-transporting ATPase activity
+GO:0005992:trehalose biosynthetic process
+GO:0016841:ammonia-lyase activity
+GO:0004427:inorganic diphosphatase activity
+GO:0052889:9,9'-di-cis-zeta-carotene desaturation to 7,9,7',9'-tetra-cis-lycopene
+GO:0052886:9,9'-dicis-carotene:quinone oxidoreductase activity
+GO:0052887:7,9,9'-tricis-neurosporene:quinone oxidoreductase activity
+GO:0051205:protein insertion into membrane
+GO:0048268:clathrin coat assembly
+GO:0005545:1-phosphatidylinositol binding
+GO:0030154:cell differentiation
+GO:0006325:chromatin organization
+GO:0004650:polygalacturonase activity
+GO:0004419:hydroxymethylglutaryl-CoA lyase activity
+GO:0006527:arginine catabolic process
+GO:0006541:glutamine metabolic process
+GO:0015112:nitrate transmembrane transporter activity
+GO:0047911:galacturan 1,4-alpha-galacturonidase activity
+GO:0034645:cellular macromolecule biosynthetic process
+GO:0048827:phyllome development
+GO:0032555:purine ribonucleotide binding
+GO:0032550:purine ribonucleoside binding
+GO:0006561:proline biosynthetic process
+GO:1902582:single-organism intracellular transport
+GO:0070588:calcium ion transmembrane transport
+GO:0005516:calmodulin binding
+GO:0006464:cellular protein modification process
+GO:0098771:inorganic ion homeostasis
